@@ -9,11 +9,14 @@ GENERATIONS = 200
 
 COLORS = {
     "BLACK": (0, 0, 0),
+    "GREY": (173, 165, 135),
     "GREEN": (10, 200, 0),
     "DARK_GREEN": (85, 139, 47),
     "BLUE": (0, 0, 155),
     "LIGHT_BLUE": (0, 188, 255),
     "YELLOW": (252, 221, 118),
+    "WHITE": (255, 255, 255),
+    "RED": (255, 0, 0)  # People
 }
 
 FPS = 40

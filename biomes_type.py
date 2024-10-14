@@ -7,3 +7,7 @@ class BiomesType(Enum):
     SAND = 3
     SEA_SHORE = 4
     WOODS = 5
+    STONES = 6
+    CLOUDS = 7
+    PEOPLE = 8
+    SETTLEMENTS = 9
